@@ -11,7 +11,16 @@ My Reading List
     <td>Naked Statistics: Stripping the Dread from the Data</td>
     <td>Charles Wheelan</td> 
   </tr>
+  tr>
+    <td>Clean Code: A Handbookof Agile Software Craftsmanship </td>
+    <td>Robert C. Martin</td> 
+  </tr>
+  tr>
+    <td>The Deep Learning Revolution</td>
+    <td>Terry Sejnowski</td> 
+  </tr>
 </table>
+
 
 # Fiction
 
