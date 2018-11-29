@@ -122,20 +122,20 @@ My Reading List
     <td>William Hertling</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>All Systems Red</td>
+    <td>Martha Wells</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Artificial Condition</td>
+    <td>Martha Wells</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Rogue Protocol</td>
+    <td>Martha Wells</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Exit Strategy</td>
+    <td>Martha Wells</td> 
   </tr>
   <tr>
     <td>template</td>
