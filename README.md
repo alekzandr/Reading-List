@@ -138,19 +138,19 @@ My Reading List
     <td>Martha Wells</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Level Five (Currently Reading)</td>
+    <td>William Ledbetter</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Thin Air (Future Read)</td>
+    <td>Richard K. Morgan</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Artemis (Future Read)</td>
+    <td>Andy Weir</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>Autonomous: A Novel (Future Read)</td>
+    <td>Annalee Newitz</td> 
   </tr>
 </table>
