@@ -73,6 +73,62 @@ My Reading List
     <td>William Hertling</td> 
   </tr>
   <tr>
+    <td>The Singularity - Heretic</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>The Singularity - Traitor</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>The Singularity - Emissaries</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>The Singularity - Revolutionary</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>The Singularity Rising - Choice</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>The Singularity Rising - Fate</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>The Singularity Rising - Gods</td>
+    <td>David Beers</td> 
+  </tr>
+  <tr>
+    <td>Kill Process</td>
+    <td>William Hertling</td> 
+  </tr>
+  <tr>
+    <td>template</td>
+    <td>template</td> 
+  </tr>
+  <tr>
+    <td>template</td>
+    <td>template</td> 
+  </tr>
+  <tr>
+    <td>template</td>
+    <td>template</td> 
+  </tr>
+  <tr>
+    <td>template</td>
+    <td>template</td> 
+  </tr>
+  <tr>
+    <td>template</td>
+    <td>template</td> 
+  </tr>
+  <tr>
+    <td>template</td>
+    <td>template</td> 
+  </tr>
+  <tr>
     <td>template</td>
     <td>template</td> 
   </tr>
