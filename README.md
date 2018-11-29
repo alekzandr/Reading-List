@@ -61,16 +61,16 @@ My Reading List
     <td>William Hertling</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>A.I. Apocalypse</td>
+    <td>William Hertling</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>The Last Firewall</td>
+    <td>William Hertling</td> 
   </tr>
   <tr>
-    <td>template</td>
-    <td>template</td> 
+    <td>The Turing Exception</td>
+    <td>William Hertling</td> 
   </tr>
   <tr>
     <td>template</td>
