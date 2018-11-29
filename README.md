@@ -74,6 +74,10 @@ My Reading List
     <td>Marissa Meyer</td> 
   </tr>
   <tr>
+    <td>Ready Player One</td>
+    <td>Ernest Cline</td> 
+  </tr>
+  <tr>
     <td>Avogadro Corp: The Singularity Is Closer Than it Appears</td>
     <td>William Hertling</td> 
   </tr>
