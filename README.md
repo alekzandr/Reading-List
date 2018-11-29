@@ -2,8 +2,16 @@
 My Reading List
 
 # Non-Fiction:
-
-
+<table style="width:100%">
+  <tr>
+    <th>Title</th>
+    <th>Author</th> 
+  </tr>
+  <tr>
+    <td>Naked Statistics: Stripping the Dread from the Data</td>
+    <td>Charles Wheelan</td> 
+  </tr>
+</table>
 
 # Fiction
 
