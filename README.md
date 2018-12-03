@@ -142,11 +142,11 @@ My Reading List
     <td>Martha Wells</td> 
   </tr>
   <tr>
-    <td>Level Five (Currently Reading)</td>
+    <td>Level Five</td>
     <td>William Ledbetter</td> 
   </tr>
   <tr>
-    <td>Thin Air (Future Read)</td>
+    <td>Thin Air (Currently Reading)</td>
     <td>Richard K. Morgan</td> 
   </tr>
   <tr>
