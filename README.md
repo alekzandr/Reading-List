@@ -157,4 +157,8 @@ My Reading List
     <td>Autonomous: A Novel (Future Read)</td>
     <td>Annalee Newitz</td> 
   </tr>
+  <tr>
+    <td>Kill Switch (Future Read)</td>
+    <td>William Hertling</td> 
+  </tr>
 </table>
