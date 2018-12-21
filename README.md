@@ -146,11 +146,11 @@ My Reading List
     <td>William Ledbetter</td> 
   </tr>
   <tr>
-    <td>Thin Air (Currently Reading)</td>
+    <td>Thin Air</td>
     <td>Richard K. Morgan</td> 
   </tr>
   <tr>
-    <td>Artemis (Future Read)</td>
+    <td>Artemis (Currently Reading)</td>
     <td>Andy Weir</td> 
   </tr>
   <tr>
