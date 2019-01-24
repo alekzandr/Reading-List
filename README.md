@@ -150,15 +150,15 @@ My Reading List
     <td>Richard K. Morgan</td> 
   </tr>
   <tr>
-    <td>Artemis (Currently Reading)</td>
+    <td>Artemis</td>
     <td>Andy Weir</td> 
+  </tr>
+  <tr>
+    <td>Kill Switch (Currently Reading)</td>
+    <td>William Hertling</td> 
   </tr>
   <tr>
     <td>Autonomous: A Novel (Future Read)</td>
     <td>Annalee Newitz</td> 
-  </tr>
-  <tr>
-    <td>Kill Switch (Future Read)</td>
-    <td>William Hertling</td> 
   </tr>
 </table>
