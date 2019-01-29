@@ -19,6 +19,10 @@ My Reading List
     <td>The Deep Learning Revolution</td>
     <td>Terry Sejnowski</td> 
   </tr>
+  <tr>
+    <td>Python Microservices Deployment</td>
+    <td>Tarek Ziadé</td> 
+  </tr>
 </table>
 
 
