@@ -23,6 +23,10 @@ My Reading List
     <td>Python Microservices Deployment</td>
     <td>Tarek Ziadé</td> 
   </tr>
+   <tr>
+    <td>The Four Steps to the Epiphany</td>
+    <td>Steve Blank</td> 
+  </tr>
 </table>
 
 
