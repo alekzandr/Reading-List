@@ -162,11 +162,11 @@ My Reading List
     <td>Andy Weir</td> 
   </tr>
   <tr>
-    <td>Kill Switch (Currently Reading)</td>
+    <td>Kill Switch</td>
     <td>William Hertling</td> 
   </tr>
   <tr>
-    <td>Autonomous: A Novel (Future Read)</td>
+    <td>Autonomous: A Novel (Currently Reading)</td>
     <td>Annalee Newitz</td> 
   </tr>
 </table>
