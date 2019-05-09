@@ -177,4 +177,24 @@ My Reading List
     <td>Seveneves: A Novel (Currently Reading)</td>
     <td>Neal Stephenson</td> 
   </tr>
+  <tr>
+    <td>Junk (Future Read)</td>
+    <td>Les Bohem</td> 
+  </tr>
+  <tr>
+    <td>River of Gods (Future Read)</td>
+    <td>Ian McDonald</td> 
+  </tr>
+  <tr>
+    <td>Galaxy's Edge (Future Read)</td>
+    <td>Jason Anspach, Nick Cole</td> 
+  </tr>
+  <tr>
+    <td>Soverign (Future Read)</td>
+    <td>Jeff Hirsch</td> 
+  </tr>
+  <tr>
+    <td>War of the Spark: Ravnica (Future Read)</td>
+    <td>Greg Weisman</td> 
+  </tr>
 </table>
