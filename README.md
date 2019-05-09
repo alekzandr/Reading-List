@@ -27,6 +27,10 @@ My Reading List
     <td>The Four Steps to the Epiphany</td>
     <td>Steve Blank</td> 
   </tr>
+  <tr>
+    <td>Mastering Machine Learning for Penetration Testing</td>
+    <td>Chiheb Chebbi</td> 
+  </tr>
 </table>
 
 
@@ -166,7 +170,11 @@ My Reading List
     <td>William Hertling</td> 
   </tr>
   <tr>
-    <td>Autonomous: A Novel (Currently Reading)</td>
+    <td>Autonomous: A Novel</td>
     <td>Annalee Newitz</td> 
+  </tr>
+  <tr>
+    <td>Seveneves: A Novel (Currently Reading)</td>
+    <td>Neal Stephenson</td> 
   </tr>
 </table>
