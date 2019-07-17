@@ -174,8 +174,20 @@ My Reading List
     <td>Annalee Newitz</td> 
   </tr>
   <tr>
-    <td>Seveneves: A Novel (Currently Reading)</td>
+    <td>Seveneves: A Novel</td>
     <td>Neal Stephenson</td> 
+  </tr>
+  <tr>
+    <td>Soverign</td>
+    <td>Jeff Hirsch</td> 
+  </tr>
+  <tr>
+    <td>Alas, Babylon (Currently Reading)</td>
+    <td>Pat Frank</td> 
+  </tr>
+  <tr>
+    <td>All Gifts, Bestowed (Currently Reading)</td>
+    <td>Joshua Gayou</td> 
   </tr>
   <tr>
     <td>Junk (Future Read)</td>
@@ -188,10 +200,6 @@ My Reading List
   <tr>
     <td>Galaxy's Edge (Future Read)</td>
     <td>Jason Anspach, Nick Cole</td> 
-  </tr>
-  <tr>
-    <td>Soverign (Future Read)</td>
-    <td>Jeff Hirsch</td> 
   </tr>
   <tr>
     <td>War of the Spark: Ravnica (Future Read)</td>
